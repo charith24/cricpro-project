@@ -1,16 +1,172 @@
-/* Type your code here */
+body {
+	display: inline-flexbox;
+	background-position: right;
+	background-repeat: no-repeat;
+}
 
+#lo {
+	margin-top: 30px;
+	margin-left: 950px;
+}
 
-/* change the font family and spacing as per your project font */
-.footer{
-    display:flex;
-    flex-direction: row;
-    align-content: flex-end;
-	position: relative;
-	top: 750px;
-	margin-left: 80px;
-	font-size: 18px;
-	font-family: Nunito Sans;
-    font-style: normal;
-    
+#mar {
+	margin: 0 250px 0px 30px;
+
+}
+
+#xx {
+	margin: 30px 30px;
+}
+
+#box {
+	background-color: orangered;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+#bb {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#cc {
+	display: flex;
+	justify-content: space-between;
+}
+
+#cc div {
+	margin: 0 20px;
+}
+
+#dd {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#ee {
+	display: flex;
+	justify-content: space-between;
+}
+
+#ee div {
+	margin: 0 21px;
+}
+
+#ff {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#gg {
+	display: flex;
+	justify-content: space-between;
+}
+
+#gg div {
+	margin: 0 18px;
+}
+
+#hh {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#ii {
+	display: flex;
+	justify-content: space-between;
+}
+
+#ii div {
+	margin: 0 18px;
+}
+
+#jj {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#kk {
+	display: flex;
+	justify-content: space-between;
+}
+
+#kk div {
+	margin: 0 19px;
+}
+
+#ll {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#mm {
+	display: flex;
+	justify-content: space-between;
+}
+
+#mm div {
+	margin: 0 18px;
+}
+
+#nn {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	background-color: white;
+}
+
+#oo {
+	display: flex;
+	justify-content: space-between;
+}
+
+#oo div {
+	margin: 0 19px;
+}
+
+#ab,
+#ba,
+#aa {
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+	border: 1px solid lightgray;
+	font-weight: bold;
+	background-color: white;
+}
+
+#no {
+	margin: 0 90px;
+}
+
+#yes {
+	margin: 0 110px;
+}
+
+#yup {
+	margin: 0 80px;
+}
+
+.footer {
+	margin: 0 30px;
 }
